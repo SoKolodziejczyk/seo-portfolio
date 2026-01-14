@@ -1,7 +1,7 @@
 # Dziennik SEO - Bartłomiej Kołodziejczyk
 
 ## Tydzień 1
-### Dzień 1: Start Projektu (04.12.2025)
+###  Start Projektu (04.12.2025)
 **Działania:**
 - Utworzenie strony Landing Page (HTML5 + CSS) zoptymalizowanej pod Core Web Vitals.
 - Hosting strony na GitHub Pages: `https://sokolodziejczyk.github.io/seo-portfolio/`.
@@ -13,8 +13,7 @@
 **Status:**
 - Strona dostępna online.
 - Oczekiwanie na wizytę robotów.
-
-### Dzień 3: Weryfikacja po 48h (14.01.2025)
+## Tydzień 2
 **Działania:**
 - Sprawdzenie poprawności zbierania danych w Google Analytics (Status: Aktywny - widać ruch w czasie rzeczywistym).
 - Weryfikacja mapy witryny w GSC (Przetworzono pomyślnie).
@@ -26,3 +25,11 @@
 **Wnioski:**
 - Konfiguracja techniczna zakończona sukcesem. Wszystkie narzędzia zbierają dane.
 - Rozpoczynam etap budowania treści (Content Marketing) i pozyskiwania linków zwrotnych.
+### Tydzień 4: Content Marketing (Aktualizacja)
+**Działania:**
+- Dodanie pierwszej merytorycznej treści: Artykuł "Dlaczego GitHub Pages zamiast WordPressa?".
+- Cel: Nasycenie strony słowami kluczowymi: *Core Web Vitals, optymalizacja, SEO techniczne*.
+- **Wymuszenie re-indeksacji:** Ręczne zgłoszenie adresu URL w Google Search Console po aktualizacji treści.
+
+**Status:**
+- Oczekuję, aż Google zaktualizuje cache strony i uwzględni nowy tekst w wynikach wyszukiwania.
