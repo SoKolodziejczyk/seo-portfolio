@@ -14,8 +14,21 @@
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
-
       gtag('config', 'G-0P18ZXQ9R8');
+    </script>
+    
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Twój Nick/Imię",
+      "url": "https://sokolodziejczyk.github.io/seo-portfolio/",
+      "jobTitle": "Student / Web Developer",
+      "description": "Portfolio studenckie i dziennik eksperymentu SEO.",
+      "sameAs": [
+        "https://github.com/SoKolodziejczyk"
+      ]
+    }
     </script>
     <title>Dev Journal & Portfolio | Projekt SEO</title>
     
@@ -28,18 +41,18 @@
         main { max-width: 800px; margin: 0 auto; padding: 2rem 1rem; }
         section { margin-bottom: 3rem; background: #fff; padding: 1.5rem; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.05); }
         h2 { border-bottom: 2px solid var(--accent); padding-bottom: 0.5rem; display: inline-block; }
+        h3 { color: #444; margin-top: 1.5rem; }
         .project-list, .journal-list { list-style: none; padding: 0; }
         .project-list li, .journal-list li { margin-bottom: 1rem; border-left: 3px solid var(--accent); padding-left: 1rem; }
         footer { text-align: center; padding: 2rem; color: #666; font-size: 0.9rem; border-top: 1px solid #ddd; margin-top: 2rem; }
         a { color: var(--accent); text-decoration: none; font-weight: bold; }
         a:hover { text-decoration: underline; }
     </style>
-    
 </head>
 <body>
 
 <header>
-    <h1>Kolodziejczyk_Bartlomiej</h1>
+    <h1>Twój Nick / Imię</h1>
     <p class="subtitle">IT Student | SEO Enthusiast | Web Developer</p>
 </header>
 
@@ -49,6 +62,16 @@
         <p>Cześć! To strona stworzona w celu eksperymentu SEO. Badam, jak szybko nowa domena na GitHub Pages może zostać zaindeksowana przez Google, Bing i inne wyszukiwarki. Śledzę zmiany pozycji i optymalizuję kod w czasie rzeczywistym.</p>
     </section>
 
+    <section id="skills">
+        <h2>Technologie i Narzędzia</h2>
+        <p>W ramach optymalizacji technicznej SEO wykorzystuję stack technologiczny nastawiony na wydajność:</p>
+        <ul>
+            <li><strong>HTML5 & CSS3:</strong> Semantyczny kod dla lepszej interpretacji przez roboty.</li>
+            <li><strong>Google Search Console:</strong> Monitorowanie indeksacji i błędów crawlera.</li>
+            <li><strong>Google Analytics 4:</strong> Analiza behawioralna użytkowników.</li>
+            <li><strong>Git & GitHub Pages:</strong> Kontrola wersji i szybki hosting CDN.</li>
+        </ul>
+    </section>
     <section id="projects">
         <h2>Projekty</h2>
         <p>Tutaj znajdziesz linki do moich prac oraz stron znajomych (zgodnie z zasadą fair play):</p>
@@ -57,8 +80,8 @@
             <li><a href="#">Link do projektu kolegi (Wkrótce)</a></li> 
         </ul>
     </section>
-    
-<section id="blog">
+
+    <section id="blog">
         <h2>Blog: Technologia i SEO</h2>
         
         <article>
@@ -81,20 +104,15 @@
                 Korzystając z czystego kodu, mam 100% wpływu na strukturę nagłówków (H1, H2), meta tagi i alty obrazków. 
                 To idealne środowisko do nauki <strong>optymalizacji pod wyszukiwarki</strong>.
             </p>
-            
-            <p>Śledź mój dziennik poniżej, aby zobaczyć, jak te decyzje wpłyną na pozycję strony w Google.</p>
         </article>
     </section>
-    
+
     <section id="dziennik">
         <h2>Dziennik SEO</h2>
-        <p>Log zmian i działań podejmowanych na stronie:</p>
-        <ul class="journal-list">
-            <li>
-                <small>Dzisiaj</small><br>
-                <strong>Start projektu:</strong> Utworzenie repozytorium, deployment na GitHub Pages, zgłoszenie do Google Search Console i Bing Webmaster Tools.
-            </li>
-        </ul>
+        <p>Tutaj dokumentuję każdy krok moich działań pozycjonerskich.</p>
+        <p>
+            <a href="DZIENNIK.md" target="_blank">📂 Zobacz pełny Dziennik (plik Markdown)</a>
+        </p>
     </section>
 </main>
 
@@ -104,5 +122,3 @@
 
 </body>
 </html>
-
-
