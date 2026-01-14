@@ -33,21 +33,21 @@
 
 **Status:**
 - Oczekuję, aż Google zaktualizuje cache strony i uwzględni nowy tekst w wynikach wyszukiwania.
-Tydzień 4: Zaawansowana Optymalizacja Techniczna
+ ## Tydzień 4: Zaawansowana Optymalizacja Techniczna
 1. **Implementacja Schema.org (JSON-LD):**
    - Dodano skrypt danych strukturalnych typu `Person`.
    - Cel: Wyświetlanie rozszerzonych wyników wyszukiwania (Rich Snippets) i jednoznaczna identyfikacja autora.
    - Walidacja kodu w narzędziu *Schema Markup Validator* - wynik pozytywny.
    - **Status:**
 - Strona jest w części zoptymalizowana technicznie.
-  Tydzień 5 : Audyt
+   ## Tydzień 5 : Audyt
   2. **Audyt Core Web Vitals (PageSpeed Insights):**
    - Przeprowadzono test wydajności dla urządzeń mobilnych i desktopowych.
    - **Wynik:** 100/100 punktów.
    - Wnioski: Brak blokującego kodu JavaScript i lekki CSS zapewniają błyskawiczne renderowanie (FCP < 1.0s), co jest kluczowym czynnikiem rankingowym w 2025 roku.
    **Status:**
      - Oczekuję na ponowny crawl (przeczesanie) strony przez Googlebota w celu zaindeksowania nowych sekcji.
-       Tydzień 6 :3. **Rozbudowa semantyki (Słowa kluczowe):**
+     ## Tydzień 6 :3. **Rozbudowa semantyki (Słowa kluczowe):**
    - Dodano sekcję "Technologie i Narzędzia".
    - Zastosowano znaczniki `<strong>` dla słów kluczowych: *HTML5, Google Search Console, GitHub Pages*.
    - Cel: Pozycjonowanie na frazy typu "long-tail" związane z narzędziami deweloperskimi.
