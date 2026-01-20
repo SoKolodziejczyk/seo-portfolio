@@ -53,37 +53,26 @@
    - Cel: Pozycjonowanie na frazy typu "long-tail" związane z narzędziami deweloperskimi.
      **Status:**
      - Strona jest w pełni zoptymalizowana technicznie.
-##Tydzień 7: Analiza Strategiczna (SEO vs SEM)
-Działania:
+## Tydzień 7: Analiza Strategiczna (SEO vs SEM)
+**Działania:**
+- **Analiza rynku SEM (Symulacja):** Rozważano wdrożenie płatnych reklam (Google Ads) dla fraz *"portfolio programisty"*.
+- **Wnioski:** Frazy takie jak *"pozycjonowanie stron"* czy *"portfolio IT"* mają bardzo wysoki koszt kliknięcia (CPC). Przy budżecie studenckim (0 zł) kampania SEM jest nieopłacalna.
+- **Decyzja strategiczna:** Całkowite skupienie się na **organicznym SEO** (bezpłatnym) i budowaniu widoczności poprzez jakość kodu i treści (Content is King), a nie budżet reklamowy.
 
-Analiza rynku SEM (Symulacja): Rozważano wdrożenie płatnych reklam (Google Ads).
+## Tydzień 8: Maintenance i UX (Utrzymanie)
+**Działania:**
+- **Audyt User Experience (UX):** Sprawdzenie czytelności nowych artykułów na telefonach (wielkość czcionki, odstępy) - weryfikacja Mobile Friendly.
+- **Weryfikacja linkowania wewnętrznego:** Sprawdzenie, czy wszystkie linki w menu i w tekście działają poprawnie i nie generują błędu 404.
+- **Monitoring GSC:** Sprawdzenie w konsoli Google, czy nie pojawiły się nowe błędy indeksowania (np. "Strona wykluczona").
 
-Wnioski: Frazy takie jak "pozycjonowanie stron" czy "portfolio IT" mają bardzo wysoki koszt kliknięcia (CPC). Przy budżecie studenckim (0 zł) kampania SEM jest nieopłacalna.
+**Status:**
+- Brak błędów krytycznych. Strona działa stabilnie.
 
-Decyzja strategiczna: Całkowite skupienie się na organicznym SEO (bezpłatnym) i budowaniu widoczności poprzez jakość kodu i treści (Content is King), a nie budżet reklamowy.
+## Tydzień 9: Monitoring Końcowy i Podsumowanie
+**Działania:**
+- **Analiza "Długiego Ogona" (Long Tail):** Sprawdzenie, czy strona wyświetla się na specyficzne zapytania (np. wpisanie fragmentu tekstu z mojego bloga w cudzysłowie do Google).
+- **Symulacja ruchu:** Regularne odwiedziny z różnych urządzeń (Desktop/Mobile) w celu podtrzymania statystyk aktywności w Google Analytics.
 
-##Tydzień 8: Maintenance i UX (Utrzymanie)
-Działania:
-
-Audyt User Experience (UX): Sprawdzenie czytelności nowych artykułów na telefonach (wielkość czcionki, odstępy).
-
-Weryfikacja linkowania wewnętrznego: Sprawdzenie, czy wszystkie linki w menu i w tekście (np. odsyłające do Dziennika) działają poprawnie i nie generują błędu 404.
-
-Monitoring GSC: Sprawdzenie w konsoli Google, czy nie pojawiły się nowe błędy indeksowania (np. "Strona wykluczona").
-
-Status:
-
-Brak błędów krytycznych. Strona działa stabilnie.
-
-##Tydzień 9: Monitoring Końcowy
-Działania:
-
-Analiza "Długiego Ogona" (Long Tail): Sprawdzenie, czy strona wyświetla się na specyficzne zapytania (np. wpisanie fragmentu tekstu z mojego bloga w cudzysłowie do Google).
-
-Symulacja ruchu: Regularne odwiedziny z różnych urządzeń (Desktop/Mobile) w celu podtrzymania statystyk aktywności w Google Analytics.
-
-Podsumowanie projektu (2,5 miesiąca):
-
-Udało się zbudować szybką, zoptymalizowaną stronę, która została poprawnie zaindeksowana przez Google i Bing.
-
-Wszystkie założenia techniczne (Schema, Meta tagi, RWD, Analytics) zostały zrealizowane bezkosztowo.
+**Podsumowanie projektu:**
+- Udało się zbudować szybką, zoptymalizowaną stronę, która została poprawnie zaindeksowana przez Google i Bing.
+- Wszystkie założenia techniczne (Schema, Meta tagi, RWD, Analytics) zostały zrealizowane bezkosztowo.
