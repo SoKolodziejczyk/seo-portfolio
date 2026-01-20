@@ -73,6 +73,23 @@
 - **Analiza "Długiego Ogona" (Long Tail):** Sprawdzenie, czy strona wyświetla się na specyficzne zapytania (np. wpisanie fragmentu tekstu z mojego bloga w cudzysłowie do Google).
 - **Symulacja ruchu:** Regularne odwiedziny z różnych urządzeń (Desktop/Mobile) w celu podtrzymania statystyk aktywności w Google Analytics.
 
-**Podsumowanie projektu:**
-- Udało się zbudować szybką, zoptymalizowaną stronę, która została poprawnie zaindeksowana przez Google i Bing.
-- Wszystkie założenia techniczne (Schema, Meta tagi, RWD, Analytics) zostały zrealizowane bezkosztowo.
+---
+
+# PODSUMOWANIE PROJEKTU (Final Report)
+**Czas trwania:** Grudzień 2025 – Styczeń 2026
+
+### 1. Co się udało? (Sukcesy)
+* **Wydajność:** Wybór GitHub Pages zamiast WordPressa był strzałem w dziesiątkę. Wynik 100/100 w PageSpeed Insights na mobile to rezultat nieosiągalny dla większości gotowych szablonów.
+* **Indeksacja:** Mimo świeżej domeny, udało się wejść do indeksu Google i Bing dzięki mapie witryny i ręcznemu wymuszaniu indeksacji w GSC.
+* **Edukacja:** Zrozumienie różnicy między tym, co widzi użytkownik, a tym, co widzi robot (Schema.org, Meta tagi).
+
+### 2. Co się nie udało? (Wyzwania)
+* **Długi czas oczekiwania (Sandbox Effect):** Przez pierwsze tygodnie Google ignorowało stronę. Nowe domeny muszą "odczekać swoje", zanim algorytm zacznie je traktować poważnie. Żadne triki techniczne tego nie przyspieszyły drastycznie.
+* **Konkurencja SEM:** Analiza wykazała, że bez budżetu reklamowego (Ads) niemożliwe jest wbicie się na frazy ogólne ("portfolio"), trzeba celować w niszowe ("długi ogon").
+
+### 3. Co przyniosło najlepsze efekty?
+* **Content Marketing:** Dopiero po dodaniu merytorycznych artykułów ("GitHub vs WordPress", "SEO vs SEM") zauważyłem wzrost wyświetleń w konsoli (Impressions). "Pusta" wizytówka nie generowała ruchu.
+* **Schema.org:** Wdrożenie danych strukturalnych przyspieszyło zrozumienie kontekstu strony przez boty.
+
+**Wniosek końcowy:**
+Pozycjonowanie to maraton, nie sprint. Techniczne przygotowanie strony to tylko fundament, ale bez ciągłej rozbudowy treści (którą realizowałem w tygodniach 3-7) strona pozostaje niewidoczna.
